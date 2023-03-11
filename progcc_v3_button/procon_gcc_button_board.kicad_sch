@@ -5,10 +5,10 @@
   (paper "A")
 
   (title_block
-    (title "Procon GCC Button Board")
+    (title "ProGCC v3 Button Board")
     (date "2019-12-18")
     (rev "0.2")
-    (company "Luberry's Custom Controllers")
+    (company "HHL/Esca")
   )
 
   (lib_symbols

@@ -5,10 +5,10 @@
   (paper "B")
 
   (title_block
-    (title "Procon GCC Main PCB")
+    (title "ProGCC v3 Main Board")
     (date "2019-12-18")
     (rev "0.1")
-    (company "Luberry's Custom Controllers")
+    (company "HHL/Esca")
   )
 
   (lib_symbols
