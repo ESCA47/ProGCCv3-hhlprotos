@@ -1,5 +1,5 @@
 (sym_lib_table
-  (lib (name "gcc")(type "Legacy")(uri "C:/Users/esca/Documents/GitHub/ProGCCv3-hhlprotos/lib/symbols/gcc.lib")(options "")(descr ""))
-  (lib (name "PhobGCC_Symbol_Library")(type "KiCad")(uri "C:/Users/esca/Documents/GitHub/ProGCCv3-hhlprotos/lib/modules/PhobGCC_Symbol_Library.kicad_sym")(options "")(descr ""))
-  (lib (name "New_Library")(type "KiCad")(uri "C:/Users/esca/Documents/GitHub/ProGCCv3-hhlprotos/lib/symbols/New_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "gcc")(type "Legacy")(uri "${KIPRJMOD}/../lib/symbols/gcc.lib")(options "")(descr ""))
+  (lib (name "PhobGCC_Symbol_Library")(type "KiCad")(uri "${KIPRJMOD}/../lib/modules/PhobGCC_Symbol_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/../lib/symbols/New_Library.kicad_sym")(options "")(descr ""))
 )
