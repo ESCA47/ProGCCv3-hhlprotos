@@ -1,4 +1,4 @@
-18468482764808
+20151467595472
 progcc_v3
 GH39F
 Gulikit hall effect sensor SOT23. Has proper placement for reference to joystick
@@ -27,6 +27,13 @@ NIDEC-CS-4-13NA
 0
 4
 4
+progcc_v3
+RP2040-QFN-56
+QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+70
+57
 progcc_v3
 Shou Han Type-C 24P QCHT
 
