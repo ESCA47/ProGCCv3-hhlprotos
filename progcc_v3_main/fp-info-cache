@@ -1,4 +1,4 @@
-20959076677182442
+20972528518867814
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87528,6 +87528,13 @@ varistor
 2
 2
 progcc_v3
+GCC_Header_Straight_1x06_Pitch2.00mm
+Through hole straight pin header, 1x06, 2.00mm pitch, single row
+Through hole pin header THT 1x06 2.00mm single row
+0
+6
+6
+progcc_v3
 GH39F
 Gulikit hall effect sensor SOT23. Has proper placement for reference to joystick
 
@@ -87541,6 +87548,20 @@ GL18
 0
 8
 4
+progcc_v3
+KS_8730
+
+
+0
+1
+1
+progcc_v3
+MODULE_ESP32-PICO-MINI-02
+
+
+0
+61
+61
 progcc_v3
 MODULE_RP2040_SHIELD
 
@@ -87556,6 +87577,34 @@ MSOP10
 10
 10
 progcc_v3
+PinHeader_1x03_P2.54mm_Vertical
+Through hole straight pin header, 1x01, 2.54mm pitch, single row
+Through hole pin header THT 1x01 2.54mm single row
+0
+3
+3
+progcc_v3
+SK6805-EC-15
+
+
+0
+4
+4
+progcc_v3
+SOIC-8_3.9x4.9mm_P1.27mm
+SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+8
+8
+progcc_v3
+SW_TS-1187A-B-A-B
+
+
+0
+4
+4
+progcc_v3
 TL3315NFxxxQ
 
 
@@ -87567,8 +87616,8 @@ TS09
 
 
 0
-0
-0
+2
+2
 progcc_v3
 USB4085-GF-A
 
@@ -87604,3 +87653,10 @@ procon_dpad
 0
 13
 8
+progcc_v3
+rumble_pins
+Through hole straight pin header, 1x02, 2.54mm pitch, single row
+Through hole pin header THT 1x02 2.54mm single row
+0
+2
+2
