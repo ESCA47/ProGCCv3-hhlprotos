@@ -1,4 +1,4 @@
-20416885618788620
+20418568533027579
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86113,6 +86113,13 @@ TS09
 0
 2
 2
+progcc_v3
+TestPoint_Pad_D1mm
+SMD pad as test Point, diameter 1.5mm
+test point SMD pad
+0
+1
+1
 progcc_v3
 USB4085-GF-A
 
