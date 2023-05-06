@@ -1,0 +1,7 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"SW4,SW2,SW1,SW3";"TL3315NFxxxQ";4;" TL3315NF100Q";;;
+2;"L6,L4,L2,L12,L5,L9,L1,L3,L11,L7,L10,L8";"SK6805-EC-15";12;"SK6805-EC-15";;;
+3;"SW7,SW5,SW6,SW8";"progcc_bpad";4;"BPAD";;;
+4;"D2,D5,D4,D6,D3,D1";"SOT-363_SC-70-6";6;"BAS16VY,115";;;
+5;"J2";"molex_5051100592_5P";1;"bumpers";;;
+6;"J1";"molex_5051101492_14P";1;"To Button Board";;;
