@@ -1,0 +1,50 @@
+(footprint "progcc_bpad" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
+  (fp_text reference "REF**" (at 0 5.2832 unlocked) (layer "F.SilkS")
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp 5d1f85f4-4ac7-4f91-9b4c-afe6d69c1588)
+  )
+  (fp_text value "progcc_bpad" (at 0 6.5532 unlocked) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 55dcf04a-a9b2-4f32-8845-106bbce611d3)
+  )
+  (fp_text user "${REFERENCE}" (at 0 8.2042 unlocked) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 1d53837c-d08c-4340-a0e6-63b5e82cf146)
+  )
+  (fp_poly
+    (pts
+      (arc (start -3.146309 2.055) (mid 1.622312 3.382913) (end 3.553263 -1.175))
+      (arc (start 3.553263 -1.175) (mid 0.533431 -1.369901) (end -2.491415 -1.282247))
+      (arc (start -2.491415 -1.282247) (mid -2.632291 -0.76614) (end -2.611119 -0.231575))
+      (arc (start -2.611119 -0.231575) (mid 0.309601 -0.147643) (end 3.224854 -0.345))
+      (arc (start 3.224854 -0.345) (mid 3.110531 0.926001) (end 2.515659 2.055))
+      (arc (start 2.515659 2.055) (mid -0.315325 1.852599) (end -3.146309 2.055))
+    )
+
+    (stroke (width 0.1) (type solid)) (fill solid) (layer "F.Cu") (tstamp 6510021f-0dcf-4f49-9dd5-267c5ebffb17))
+  (fp_poly
+    (pts
+      (arc (start 2.598629 0.241575) (mid -0.322091 0.157642) (end -3.237344 0.355))
+      (arc (start -3.237344 0.355) (mid -3.123011 -0.915997) (end -2.528149 -2.045))
+      (arc (start -2.528149 -2.045) (mid 0.302835 -1.8426) (end 3.133819 -2.045))
+      (arc (start 3.133819 -2.045) (mid -1.634808 -3.372911) (end -3.565754 1.185))
+      (arc (start -3.565754 1.185) (mid -0.545922 1.379902) (end 2.478924 1.292246))
+      (arc (start 2.478924 1.292246) (mid 2.619811 0.776143) (end 2.598629 0.241575))
+    )
+
+    (stroke (width 0.1) (type solid)) (fill solid) (layer "F.Cu") (tstamp dce618a5-6db4-4d12-943b-cf619386065e))
+  (fp_circle (center 0 0) (end 3.85 0)
+    (stroke (width 0.1) (type solid)) (fill solid) (layer "F.Mask") (tstamp 8d888d32-9aaf-4986-9938-22da4d790c7a))
+  (pad "1" smd rect (at 0 2.794 270) (size 0.95 1.7) (layers "F.Cu")
+    (thermal_bridge_angle 45) (tstamp 3a8e67e1-05f5-4103-84f7-828210195be4))
+  (pad "2" smd rect (at 0 -2.7432 270) (size 0.95 1.7) (layers "F.Cu")
+    (thermal_bridge_angle 45) (tstamp fe5f475c-c7c1-4d04-978e-c8ed5f790eb7))
+  (group "" (id f7529ca0-1ebf-40fb-8b62-022fc522fd25)
+    (members
+      6510021f-0dcf-4f49-9dd5-267c5ebffb17
+      dce618a5-6db4-4d12-943b-cf619386065e
+    )
+  )
+)
