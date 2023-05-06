@@ -12,48 +12,47 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp a241d3d2-1cd5-450f-81a7-0ecd748b50dd)
   )
-  (fp_poly
-    (pts
-      (arc (start -0.3576 0.4031) (mid -0.0076 0.7531) (end 0.3424 0.4031))
-      (xy 0.3424 0.0031)
-      (xy 0.3424 -0.5969)
-      (arc (start 1.829228 -2.368832) (mid -0.0076 -2.9969) (end -1.844428 -2.368832))
-      (xy -0.3576 -0.5969)
-      (xy -0.3576 0.0031)
-    )
-
-    (stroke (width 0.1) (type solid)) (fill solid) (layer "F.Cu") (tstamp 7b290578-021a-4147-8dd5-286acda94a05))
-  (fp_poly
-    (pts
-      (arc (start -2.072153 -2.173508) (mid -3.007458 0.032297) (end -2.029397 2.219479))
-      (xy -0.6576 0.493909)
-      (xy -0.6576 -0.487709)
-      (arc (start -2.072153 -2.173508) (mid -3.007458 0.032297) (end -2.029397 2.219479))
-    )
-
-    (stroke (width 0.1) (type solid)) (fill solid) (layer "F.Cu") (tstamp a5b28529-b04b-47da-a387-6d063bf006da))
-  (fp_poly
-    (pts
-      (arc (start 2.056953 -2.173508) (mid 2.992258 0.032297) (end 2.014197 2.219479))
-      (xy 0.6424 0.493909)
-      (xy 0.6424 -0.487709)
-      (arc (start 2.056953 -2.173508) (mid 2.992258 0.032297) (end 2.014197 2.219479))
-    )
-
-    (stroke (width 0.1) (type solid)) (fill solid) (layer "F.Cu") (tstamp 49292ce4-c9ae-44c3-9466-e272673d2b78))
   (fp_circle (center 0 0) (end 3.1 0)
     (stroke (width 0.1) (type solid)) (fill solid) (layer "F.Mask") (tstamp 631f2aa7-9c6f-4ed5-8820-2a942c6dcb3a))
-  (pad "1" smd rect (at -2.1336 0 270) (size 0.95 1.7) (layers "F.Cu")
-    (thermal_bridge_angle 45) (tstamp 54c01310-b6a3-4095-b5c6-25aa3c9e6579))
-  (pad "1" smd rect (at 2.1336 0 270) (size 0.95 1.7) (layers "F.Cu")
-    (thermal_bridge_angle 45) (tstamp 9f15e44a-f378-4651-939c-47e157d18122))
-  (pad "2" smd rect (at 0 -2.3876 270) (size 0.95 1.7) (layers "F.Cu")
-    (thermal_bridge_angle 45) (tstamp 5ef60344-be4e-48f3-9d47-3b1b087b518f))
-  (group "" (id 79ecd0b0-516f-4b88-af74-be46dbf26d43)
-    (members
-      49292ce4-c9ae-44c3-9466-e272673d2b78
-      7b290578-021a-4147-8dd5-286acda94a05
-      a5b28529-b04b-47da-a387-6d063bf006da
-    )
-  )
+  (pad "1" smd custom (at -2.1336 0 270) (size 0.95 1.7) (layers "F.Cu")
+    (thermal_bridge_angle 45)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly
+        (pts
+          (arc (start -2.173508 -0.061447) (mid 0.032297 0.873858) (end 2.219479 -0.104203))
+          (xy 0.493909 -1.476)
+          (xy -0.487709 -1.476)
+          (arc (start -2.173508 -0.061447) (mid 0.032297 0.873858) (end 2.219479 -0.104203))
+        )
+        (width 0.1) (fill yes))
+    ) (tstamp 54c01310-b6a3-4095-b5c6-25aa3c9e6579))
+  (pad "1" smd custom (at 2.1336 0 270) (size 0.95 1.7) (layers "F.Cu")
+    (thermal_bridge_angle 45)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly
+        (pts
+          (arc (start -2.173508 0.076647) (mid 0.032297 -0.858658) (end 2.219479 0.119403))
+          (xy 0.493909 1.4912)
+          (xy -0.487709 1.4912)
+          (arc (start -2.173508 0.076647) (mid 0.032297 -0.858658) (end 2.219479 0.119403))
+        )
+        (width 0.1) (fill yes))
+    ) (tstamp 9f15e44a-f378-4651-939c-47e157d18122))
+  (pad "2" smd custom (at 0 -2.3876 270) (size 0.95 1.7) (layers "F.Cu")
+    (thermal_bridge_angle 45)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly
+        (pts
+          (arc (start 2.7907 0.3576) (mid 3.1407 0.0076) (end 2.7907 -0.3424))
+          (xy 2.3907 -0.3424)
+          (xy 1.7907 -0.3424)
+          (arc (start 0.018768 -1.829228) (mid -0.6093 0.0076) (end 0.018768 1.844428))
+          (xy 1.7907 0.3576)
+          (xy 2.3907 0.3576)
+        )
+        (width 0.1) (fill yes))
+    ) (tstamp 5ef60344-be4e-48f3-9d47-3b1b087b518f))
 )
