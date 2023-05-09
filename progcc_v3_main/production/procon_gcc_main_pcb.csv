@@ -1,42 +1,52 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"SW4";"TS35CA";1;"~";;;
-2;"U2,U3,U1,U4";"GH39F";4;"GH39F (Hall SOT23)";;;
-3;"R2,R4";"R_0402_1005Metric";2;"100R";;;
-4;"R29,R30";"R_0402_1005Metric";2;"27";;;
-5;"L2,L7,L5,L4,L6,L3,L8,L1";"SK6805-EC-15";8;"SK6805-EC-15";;;
-6;"D1";"D_SOD-123";1;"M7C";;;
-7;"C6,C5";"C_0402_1005Metric";2;"4.7uF";;;
-8;"TP14,TP13,TP1,TP11,TP4,TP12,TP3,TP6,TP2,TP9,TP7,TP8,TP5";"TestPoint_Pad_D1.5mm";13;"TestPoint";;;
-9;"R18,R14,R17,R16,R19,R15";"R_0402_1005Metric";6;"1k";;;
-10;"U8,U10";"SOIC-8_3.9x4.9mm_P1.27mm";2;"MCP3002";;;
-11;"C10,C12,C11,C9";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";4;".047u";;;
-12;"J4";"GCC_Header_Straight_1x06_Pitch2.00mm";1;"Conn_01x06_Female";;;
-13;"JP2,JP1";"SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm";2;"SolderJumper_2_Open";;;
-14;"Q6,Q4,Q5";"SOT-23";3;"BSS138";;;
-15;"R22";"R_0402_1005Metric";1;"330";;;
-16;"F3,F2,F1";"Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder";3;"Fuse";;;
-17;"R7,R6,R11,R12,R13,R10";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";6;"1k";;;
-18;"Q3,Q2,Q1";"SOT-23";3;"Q_PMOS_GDS";;;
-19;"C1,C17,C18,C21,C22,C13";"C_0402_1005Metric";6;"100n";;;
-20;"T1,T3,T2,T4";"KS_8730";4;"36-8730";;;
-21;"U6";"QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm";1;"RP2040";;;
-22;"C19";"C_0402_1005Metric";1;"1u";;;
-23;"D4,D2,D3";"D_SOD-323_HandSoldering";3;"CUS08F30";;;
-24;"R23,R24,R20";"R_0402_1005Metric";3;"0";;;
-25;"R5,R1,R3";"R_0402_1005Metric";3;"10k";;;
-26;"J1,J2";"rumble_pins";2;"Rumble";;;
-27;"C8";"C_0603_1608Metric";1;"10u";;;
-28;"R21";"R_0402_1005Metric_Pad0.72x0.64mm_HandSolder";1;"33";;;
-29;"Y1";"Resonator_SMD_Murata_CSTxExxV-3Pin_3.0x1.1mm";1;"Crystal_GND3";;;
-30;"C3";"CP_EIA-3216-18_Kemet-A";1;"47uF 6.3v";;;
-31;"U7";"SOT-23";1;"LP3986-33B3F";;;
-32;"SW2,SW1";"GL18";2;"GL18_SW";;;
-33;"SW3";"SW_TS-1187A-B-A-B";1;"TS-1187A-B-A-B";;;
-34;"C7";"C_0402_1005Metric";1;"0.1uF";;;
-35;"C2,C4";"C_0603_1608Metric";2;"2.2uF";;;
-36;"J5";"PinHeader_1x02_P2.00mm_Vertical";1;"Conn_01x02_Pin";;;
-37;"J3";"molex_5051101492_14P";1;"To Button Board";;;
-38;"J9";"Shou Han Type-C 24P QCHT";1;"USB_C_Receptacle";;;
-39;"U9";"SOIC-8_5.23x5.23mm_P1.27mm";1;"W25Q128JVS";;;
-40;"U5";"MSOP10";1;"GL16112";;;
-41;"R9,R8";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";2;"5.1k";;;
+"Source:","C:\Users\Mitch\GitRepos\ProGCCv3-hhlprotos\progcc_v3_main\procon_gcc_main_pcb.kicad_sch"
+"Date:","5/8/2023 8:35:41 PM"
+"Tool:","Eeschema 7.0.2"
+"Generator:","C:\Program Files\KiCad\7.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","104"
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","DNP","Digikey","LCSC","LCSC Part Number","MANUFACTURER","MAXIMUM_PACKAGE_HEIGHT","MPN","PARTREV","STANDARD"
+"1","6","C1, C13, C17, C18, C21, C22","100n","Device:C","Capacitor_SMD:C_0402_1005Metric","~","","","","","","","","",""
+"2","2","C2, C4","2.2uF","Device:C","Capacitor_SMD:C_0603_1608Metric","~","","","","","","","","",""
+"3","1","C3","47uF 6.3v","Device:C_Polarized","Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A","~","","","","","","","","",""
+"4","2","C5, C6","4.7uF","Device:C","Capacitor_SMD:C_0402_1005Metric","~","","","C15849","","","","","",""
+"5","1","C7","0.1uF","Device:C","Capacitor_SMD:C_0402_1005Metric","~","","","C15849","","","","","",""
+"6","1","C8","10u","Device:C","Capacitor_SMD:C_0603_1608Metric","~","","","","","","","","",""
+"7","4","C9, C10, C11, C12",".047u","Device:C","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","C15849","","","","","",""
+"8","1","C19","1u","Device:C","Capacitor_SMD:C_0402_1005Metric","~","","","","","","","","",""
+"9","1","D1","M7C","Device:D_Schottky","Diode_SMD:D_SOD-123","~","","","C8598","","","","B5819W SL","",""
+"10","3","D2, D3, D4","CUS08F30","progcc_v3:CUS08F30","Diode_SMD:D_SOD-323_HandSoldering","${KIPRJMOD}/../progcc_v3_libs/docs/CUS08F30_datasheet_en_20140414.pdf","","","","","","","","",""
+"11","3","F1, F2, F3","Fuse","Device:Fuse","Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder","~","","","C69680","","","","","",""
+"12","2","J1, J2","Rumble","Connector:Conn_01x02_Male","progcc_v3:rumble_pins","~","","","","","","","","",""
+"13","1","J3","To Button Board","Connector_Generic:Conn_01x14","procon_gcc:molex_5051101492_14P","~","","https://www.digikey.com/product-detail/en/molex/5051101492/WM12370CT-ND/5726229","","","","","","",""
+"14","1","J4","Conn_01x06_Female","Connector:Conn_01x06_Female","progcc_v3:GCC_Header_Straight_1x06_Pitch2.00mm","~","","","","","","","","",""
+"15","1","J5","Conn_01x02_Pin","Connector:Conn_01x02_Pin","Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical","~","","","","","","","","",""
+"16","1","J9","USB_C_Receptacle","Connector:USB_C_Receptacle","progcc_v3:Shou Han Type-C 24P QCHT","https://www.usb.org/sites/default/files/documents/usb_type-c.zip","","","","","","","","",""
+"17","2","JP1, JP2","SolderJumper_2_Open","Jumper:SolderJumper_2_Open","Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm","~","","","","","","","","",""
+"18","8","L1, L2, L3, L4, L5, L6, L7, L8","SK6805-EC-15","progcc_v3:SK6805-EC-15","progcc_v3:SK6805-EC-15","${KIPRJMOD}/../progcc_v3_libs/docs/SK6805-EC-15.pdf","","","","","","","","",""
+"19","1","Q1","Q_PMOS_GDS","Device:Q_PMOS_GSD","Package_TO_SOT_SMD:SOT-23","~","","","C15127","","","","AO3401A","",""
+"20","2","Q2, Q3","Q_NMOS_GSD","Device:Q_NMOS_GSD","Package_TO_SOT_SMD:SOT-23","~","","","C20917","","","","AO3400A","",""
+"21","3","Q4, Q5, Q6","BSS138","Transistor_FET:BSS138","Package_TO_SOT_SMD:SOT-23","https://www.onsemi.com/pub/Collateral/BSS138-D.PDF","","","","","","","","",""
+"22","3","R1, R3, R5","10k","Device:R","Resistor_SMD:R_0402_1005Metric","~","","","C25804","","","","","",""
+"23","2","R2, R4","100R","Device:R","Resistor_SMD:R_0402_1005Metric","~","","","C22775","","","","","",""
+"24","6","R6, R7, R10, R11, R12, R13","1k","Device:R","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~","","","","","","","","",""
+"25","2","R8, R9","5.1k","Device:R","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~","","","","","","","","",""
+"26","5","R14, R15, R16, R17, R18","1k","Device:R","Resistor_SMD:R_0402_1005Metric","~","","","","","","","","",""
+"27","1","R19","1k","Device:R_Small","Resistor_SMD:R_0402_1005Metric","~","","","","","","","","",""
+"28","3","R20, R23, R24","0","Device:R","Resistor_SMD:R_0402_1005Metric","~","","","","","","","","",""
+"29","1","R21","33","Device:R","Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder","~","","","","","","","","",""
+"30","1","R22","330","Device:R","Resistor_SMD:R_0402_1005Metric","~","","","","","","","","",""
+"31","2","R29, R30","27","Device:R","Resistor_SMD:R_0402_1005Metric","~","","","","","","","","",""
+"32","2","SW1, SW2","GL18_SW","progcc_v3:GL18_SW","progcc_v3:GL18","${KIPRJMOD}/../progcc_v3_libs/docs/GuliKit Hall stick GL18,hall sensor datasheet.pdf","","","","","","","","",""
+"33","1","SW3","TS-1187A-B-A-B","progcc_v3:TS-1187A-B-A-B","progcc_v3:SW_TS-1187A-B-A-B","${KIPRJMOD}/../progcc_v3_libs/docs/2002271431_XKB-Connectivity-TS-1187A-B-A-B_C318884.pdf","","","","","XKB Industrial Precision","1.5mm","","A0","Manufacturer Recommendations"
+"34","1","SW4","~","progcc_v3:TS35CA","progcc_v3:TS35CA","${KIPRJMOD}/../progcc_v3_libs/docs/1912111437_SHOU-HAN-TS35CA_C412366.pdf","","","","","","","","",""
+"35","4","T1, T2, T3, T4","36-8730","Connector:TestPoint","progcc_v3:KS_8730","~","","","","","","","","",""
+"36","12","TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP9, TP11, TP13, TP14","TestPoint","Connector:TestPoint","TestPoint:TestPoint_Pad_D1.5mm","~","","","","","","","","",""
+"37","4","U1, U2, U3, U4","GH39F (Hall SOT23)","progcc_v3:GH39F (Hall SOT23)","progcc_v3:GH39F","${KIPRJMOD}/../progcc_v3_libs/docs/GL1612 chip schematic V1.2.pdf","","","","","","","","",""
+"38","1","U5","GL16112","progcc_v3:GL16112","progcc_v3:MSOP10","${KIPRJMOD}/../progcc_v3_libs/docs/GL1612 chip schematic V1.2.pdf","","","","","","","","",""
+"39","1","U6","RP2040","progcc_v3:RP2040","Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm","${KIPRJMOD}/../progcc_v3_libs/docs/rp2040-datasheet.pdf","","","","","","","","",""
+"40","1","U7","LP3986-33B3F","Regulator_Linear:AP2127N-3.3","Package_TO_SOT_SMD:SOT-23","https://www.diodes.com/assets/Datasheets/AP2127.pdf","","","","C387689","","","","",""
+"41","2","U8, U10","MCP3002","Analog_ADC:MCP3002","progcc_v3:SOIC-8_3.9x4.9mm_P1.27mm","http://ww1.microchip.com/downloads/en/DeviceDoc/21294E.pdf","","","","","","","","",""
+"42","1","U9","W25Q128JVS","Memory_Flash:W25Q128JVS","Package_SO:SOIC-8_5.23x5.23mm_P1.27mm","http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf","","","","","","","","",""
+"43","1","Y1","Crystal_GND3","Device:Crystal_GND3","Crystal:Resonator_SMD_Murata_CSTxExxV-3Pin_3.0x1.1mm","~","","","","","","","CSTNE12M0GH5L000R0","",""
