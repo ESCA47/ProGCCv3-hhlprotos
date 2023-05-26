@@ -1,4 +1,4 @@
-### Footprint positions - created on Fri May  5 22:32:07 2023 ###
+### Footprint positions - created on Thu May 18 14:21:48 2023 ###
 ### Printed by KiCad version 7.0.2
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -39,8 +39,8 @@ L6        SK6805-EC-15        SK6805-EC-15                                      
 L7        SK6805-EC-15        SK6805-EC-15                                      87.5100  -124.4350    0.0000  top
 L8        SK6805-EC-15        SK6805-EC-15                                     105.3100  -124.4350    0.0000  top
 Q1        Q_PMOS_GDS          SOT-23                                           158.2555  -119.6748   90.0000  top
-Q2        Q_PMOS_GDS          SOT-23                                           154.8555  -121.3548   90.0000  top
-Q3        Q_PMOS_GDS          SOT-23                                           164.3540  -118.7674   90.0000  top
+Q2        Q_NMOS_GSD          SOT-23                                           154.8555  -121.3548   90.0000  top
+Q3        Q_NMOS_GSD          SOT-23                                           164.3540  -118.7674   90.0000  top
 Q4        BSS138              SOT-23                                           124.0300  -113.8800    0.0000  top
 Q5        BSS138              SOT-23                                           124.0300  -110.3900    0.0000  top
 Q6        BSS138              SOT-23                                           124.0425  -106.8100    0.0000  top

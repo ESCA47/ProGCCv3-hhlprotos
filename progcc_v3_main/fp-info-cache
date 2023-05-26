@@ -1,4 +1,4 @@
-21707507982301215
+21707509888669786
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90314,7 +90314,7 @@ USB4085-GF-A
 20
 17
 progcc_v3
-molex_5051100592_5P
+molex_5034800540
 
 
 0
@@ -90326,7 +90326,7 @@ molex_5051101492_14P
 
 0
 16
-14
+15
 progcc_v3
 procon_abxy
 
@@ -90353,8 +90353,8 @@ progcc_dpad
 
 
 0
-0
-0
+3
+2
 progcc_v3
 rumble_pins
 Through hole straight pin header, 1x02, 2.54mm pitch, single row

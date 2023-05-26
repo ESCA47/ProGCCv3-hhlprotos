@@ -2077,7 +2077,7 @@
     (property "Value" "bumpers" (at 78.1812 131.191 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "progcc_v3:molex_5051100592_5P" (at 77.47 129.54 0)
+    (property "Footprint" "progcc_v3:molex_5034800540" (at 77.47 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 77.47 129.54 0)

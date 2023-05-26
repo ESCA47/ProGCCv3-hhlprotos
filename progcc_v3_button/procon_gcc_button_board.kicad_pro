@@ -56,25 +56,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "solder_mask_bridge|101387131|59159673|e99dd68f-8fe7-427d-b783-921e7d1bdea6|2622864a-dc4d-485e-a88e-6ff33e25c8a1",
-        "solder_mask_bridge|102375180|76154560|b157871a-d08a-47f3-a5c4-fc464ac4bcd4|841e0bc2-23c2-443e-bd02-c332d8f42b84",
-        "solder_mask_bridge|102375180|76629560|b157871a-d08a-47f3-a5c4-fc464ac4bcd4|841e0bc2-23c2-443e-bd02-c332d8f42b84",
-        "solder_mask_bridge|102405180|53042820|e99dd68f-8fe7-427d-b783-921e7d1bdea6|2622864a-dc4d-485e-a88e-6ff33e25c8a1",
-        "solder_mask_bridge|102405180|53844360|e99dd68f-8fe7-427d-b783-921e7d1bdea6|2622864a-dc4d-485e-a88e-6ff33e25c8a1",
-        "solder_mask_bridge|102405180|54319360|e99dd68f-8fe7-427d-b783-921e7d1bdea6|2622864a-dc4d-485e-a88e-6ff33e25c8a1",
-        "solder_mask_bridge|108736362|63631443|65344b11-e328-4338-a2aa-1233eb3d1bda|4c62f8ad-c52c-417d-bc23-984e69f63977",
-        "solder_mask_bridge|113297780|65241960|65344b11-e328-4338-a2aa-1233eb3d1bda|4c62f8ad-c52c-417d-bc23-984e69f63977",
-        "solder_mask_bridge|113772780|65241960|65344b11-e328-4338-a2aa-1233eb3d1bda|4c62f8ad-c52c-417d-bc23-984e69f63977",
-        "solder_mask_bridge|90997580|65241960|392b0c20-e144-4035-ba6b-5dbe1f9d9bcc|1647ff7e-e2b0-487c-bf79-1886b7759e99",
-        "solder_mask_bridge|91472580|65241960|392b0c20-e144-4035-ba6b-5dbe1f9d9bcc|1647ff7e-e2b0-487c-bf79-1886b7759e99",
-        "solder_mask_bridge|96332522|64281141|392b0c20-e144-4035-ba6b-5dbe1f9d9bcc|1647ff7e-e2b0-487c-bf79-1886b7759e99",
-        "unconnected_items|116190000|78298000|344bc059-706e-48dd-98f8-fc4c86fda119|24406f32-af18-44d1-8fd4-1dc92acb7138",
-        "unconnected_items|116190000|80198000|24406f32-af18-44d1-8fd4-1dc92acb7138|bdd4eb39-92eb-4603-a6b9-361e08732e25",
-        "unconnected_items|116840000|78298000|f5834232-c019-4e76-a05b-f96ac3e11f01|344bc059-706e-48dd-98f8-fc4c86fda119",
-        "unconnected_items|166529000|59849000|da2015a3-a23b-4332-9636-8c16ea13024e|f5834232-c019-4e76-a05b-f96ac3e11f01",
-        "unconnected_items|89872000|78240032|31624dcc-b201-47ed-b662-3d5e2e869b9f|a9e3750c-3d3f-4cdc-aedb-e7b41d027a67"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2

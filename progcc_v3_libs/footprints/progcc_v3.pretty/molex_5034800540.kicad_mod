@@ -1,4 +1,4 @@
-(footprint "molex_5051100592_5P" (version 20221018) (generator pcbnew)
+(footprint "molex_5034800540" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr smd allow_soldermask_bridges)
   (fp_text reference "J2" (at 5.7251 5.231) (layer "F.SilkS")
