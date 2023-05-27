@@ -1,4 +1,4 @@
-21707508163691736
+21712571907352965
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90216,12 +90216,26 @@ GL18
 8
 4
 progcc_v3
+HHL_Logo
+
+
+0
+0
+0
+progcc_v3
 KS_8730
 
 
 0
 1
 1
+progcc_v3
+LGA14
+
+
+0
+14
+14
 progcc_v3
 MODULE_ESP32-PICO-MINI-02
 
@@ -90264,6 +90278,13 @@ SOIC SO
 0
 8
 8
+progcc_v3
+SOT-363_SC-70-6
+SOT-363, SC-70-6
+SOT-363 SC-70-6
+0
+6
+6
 progcc_v3
 SW_TS-1187A-B-A-B
 
@@ -90314,7 +90335,7 @@ USB4085-GF-A
 20
 17
 progcc_v3
-molex_5051100592_5P
+molex_5034800540
 
 
 0
