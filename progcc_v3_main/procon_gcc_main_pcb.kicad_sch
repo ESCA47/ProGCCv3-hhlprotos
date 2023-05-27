@@ -6638,7 +6638,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_01x01") (at 246.38 200.66 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 1ab0fe58-9fa8-4476-bcf4-d9c4d49245a0)
     (property "Reference" "P1" (at 248.92 200.66 0)
       (effects (font (size 1.27 1.27)) (justify left))

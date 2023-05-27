@@ -163,7 +163,9 @@
         "silk_overlap|115811455|119950000|450b5466-0586-416a-90b0-0212d3e6dbfc|6d289713-8c68-4dd0-8447-9b5b0c1724e0",
         "silk_overlap|116650000|119950000|5ea8dfe6-ddae-41a0-b366-3822a4c11b0d|6d289713-8c68-4dd0-8447-9b5b0c1724e0",
         "silk_overlap|116716217|121378295|6d289713-8c68-4dd0-8447-9b5b0c1724e0|2ed899c3-e513-4018-9c1f-179d4c9e9a11",
+        "silk_overlap|124090668|115477133|3555110c-3fa3-4e58-a539-9df5caea0d07|e21a5dfd-9ee4-4115-9e6b-f2f9f1c9e3f7",
         "silk_overlap|124090668|115477133|e21a5dfd-9ee4-4115-9e6b-f2f9f1c9e3f7|3555110c-3fa3-4e58-a539-9df5caea0d07",
+        "silk_overlap|124114600|115440000|3555110c-3fa3-4e58-a539-9df5caea0d07|fd9bade4-3259-4dbd-9ca2-bca58d1775c5",
         "silk_overlap|124114600|115440000|fd9bade4-3259-4dbd-9ca2-bca58d1775c5|3555110c-3fa3-4e58-a539-9df5caea0d07",
         "silk_overlap|135742000|111410666|0ec5f0cc-12c1-4ada-bc65-7d2824f110e0|b69d88d7-d25b-4b9a-95c4-bb4603223428",
         "text_height|113778888|128403597|e068f7a9-2059-4a75-a943-bf63b5aa69f5|00000000-0000-0000-0000-000000000000",
@@ -618,7 +620,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "production/3d/procon_gcc_main_pcb.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

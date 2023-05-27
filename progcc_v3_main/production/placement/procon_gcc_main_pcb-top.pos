@@ -1,4 +1,4 @@
-### Footprint positions - created on Fri May 26 20:08:19 2023 ###
+### Footprint positions - created on Sat May 27 01:39:34 2023 ###
 ### Printed by KiCad version 7.0.2
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -31,14 +31,14 @@ F2        Fuse                Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder   1
 F3        Fuse                Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder   136.6520  -110.7440  -90.0000  top
 J3        To_Button_Board     molex_5051101492_14P                              99.9912  -145.1678    0.0000  top
 J9        USB_C_Receptacle    Shou_Han_Type-C_24P_QCHT                         138.4600   -90.7750  180.0000  top
-L1        SK6805-EC-15        SK6805-EC-15                                     149.3350  -134.1150    0.0000  top
-L2        SK6805-EC-15        SK6805-EC-15                                     167.1350  -134.1150    0.0000  top
-L3        SK6805-EC-15        SK6805-EC-15                                     167.1350  -146.7650    0.0000  top
-L4        SK6805-EC-15        SK6805-EC-15                                     149.3350  -146.7650    0.0000  top
-L5        SK6805-EC-15        SK6805-EC-15                                     104.9450  -112.5450    0.0000  top
-L6        SK6805-EC-15        SK6805-EC-15                                      87.1450  -112.5450    0.0000  top
-L7        SK6805-EC-15        SK6805-EC-15                                      87.1450  -125.1950    0.0000  top
-L8        SK6805-EC-15        SK6805-EC-15                                     104.9450  -125.1950    0.0000  top
+L1        SK6805-EC-15        SK6805-EC-15                                     149.3202  -133.5220    0.0000  top
+L2        SK6805-EC-15        SK6805-EC-15                                     167.3202  -133.5220    0.0000  top
+L3        SK6805-EC-15        SK6805-EC-15                                     167.3202  -146.5220    0.0000  top
+L4        SK6805-EC-15        SK6805-EC-15                                     149.3202  -146.5220    0.0000  top
+L5        SK6805-EC-15        SK6805-EC-15                                     105.3770  -111.9326    0.0000  top
+L6        SK6805-EC-15        SK6805-EC-15                                      87.3770  -111.9326    0.0000  top
+L7        SK6805-EC-15        SK6805-EC-15                                      87.3770  -124.9326    0.0000  top
+L8        SK6805-EC-15        SK6805-EC-15                                     105.3770  -124.9326    0.0000  top
 P1        Endpoint            PinHeader_1x01_P2.54mm_Vertical                  172.9836  -145.8042    0.0000  top
 Q1        Q_PMOS_GDS          SOT-23                                           158.2555  -119.6748   90.0000  top
 Q2        Q_NMOS_GSD          SOT-23                                           154.8555  -121.3548   90.0000  top
@@ -71,18 +71,18 @@ R22       330                 R_0402_1005Metric                                1
 R29       27                  R_0402_1005Metric                                144.8684  -124.6741  180.0000  top
 R30       27                  R_0402_1005Metric                                144.8735  -125.6986  180.0000  top
 REF**     HHL_Logo            HHL_Logo                                         139.5293  -145.9821    0.0000  top
-SW1       GL18_SW             GL18                                              96.0450  -118.8700    0.0000  top
-SW2       GL18_SW             GL18                                             158.2350  -140.4400    0.0000  top
+SW1       GL18_SW             GL18                                              96.3770  -118.4326    0.0000  top
+SW2       GL18_SW             GL18                                             158.3202  -140.0220    0.0000  top
 SW3       TS-1187A-B-A-B      SW_TS-1187A-B-A-B                                162.7600  -112.5400  -90.0000  top
 SW4       ~                   TS35CA                                           128.4835  -101.8900    0.0000  top
 T1        36-8730             KS_8730                                          178.6750  -144.9065    0.0000  top
 T2        36-8730             KS_8730                                           89.1750  -140.1250    0.0000  top
 T3        36-8730             KS_8730                                           84.6750  -140.1250    0.0000  top
 T4        36-8730             KS_8730                                          183.1750  -144.9065    0.0000  top
-U1        GH39F_(Hall_SOT23)  GH39F                                             96.0450  -118.8700  -90.0000  top
-U2        GH39F_(Hall_SOT23)  GH39F                                             96.0450  -118.8700    0.0000  top
-U3        GH39F_(Hall_SOT23)  GH39F                                            158.2350  -140.4400  -90.0000  top
-U4        GH39F_(Hall_SOT23)  GH39F                                            158.2350  -140.4400    0.0000  top
+U1        GH39F_(Hall_SOT23)  GH39F                                             96.3770  -118.4326  -90.0000  top
+U2        GH39F_(Hall_SOT23)  GH39F                                             96.3770  -118.4326    0.0000  top
+U3        GH39F_(Hall_SOT23)  GH39F                                            158.3202  -140.0220  -90.0000  top
+U4        GH39F_(Hall_SOT23)  GH39F                                            158.3202  -140.0220    0.0000  top
 U5        ST_LSM6             LGA14                                            129.8595  -137.5737  180.0000  top
 U6        RP2040              QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm              138.3000  -123.3000  -90.0000  top
 U7        LP3986-33B3F        SOT-23                                           139.8080  -109.7945  180.0000  top
