@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\Mitch\GitRepos\ProGCCv3-hhlprotos\progcc_v3_main\procon_gcc_main_pcb.kicad_sch</source>
-    <date>5/26/2023 8:11:15 PM</date>
+    <date>6/6/2023 9:40:30 PM</date>
     <tool>Eeschema 7.0.2</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -304,7 +304,11 @@
       <value>CUS08F30</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>${KIPRJMOD}/../progcc_v3_libs/docs/CUS08F30_datasheet_en_20140414.pdf</datasheet>
+      <fields>
+        <field name="MPN">CUS08F30</field>
+      </fields>
       <libsource lib="progcc_v3" part="CUS08F30" description="Diode"/>
+      <property name="MPN" value="CUS08F30"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="procon_gcc_main_pcb.kicad_sch"/>
       <property name="ki_description" value="Diode"/>
@@ -316,7 +320,11 @@
       <value>CUS08F30</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>${KIPRJMOD}/../progcc_v3_libs/docs/CUS08F30_datasheet_en_20140414.pdf</datasheet>
+      <fields>
+        <field name="MPN">CUS08F30</field>
+      </fields>
       <libsource lib="progcc_v3" part="CUS08F30" description="Diode"/>
+      <property name="MPN" value="CUS08F30"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="procon_gcc_main_pcb.kicad_sch"/>
       <property name="ki_description" value="Diode"/>
@@ -328,7 +336,11 @@
       <value>CUS08F30</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <datasheet>${KIPRJMOD}/../progcc_v3_libs/docs/CUS08F30_datasheet_en_20140414.pdf</datasheet>
+      <fields>
+        <field name="MPN">CUS08F30</field>
+      </fields>
       <libsource lib="progcc_v3" part="CUS08F30" description="Diode"/>
+      <property name="MPN" value="CUS08F30"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="procon_gcc_main_pcb.kicad_sch"/>
       <property name="ki_description" value="Diode"/>
@@ -387,28 +399,6 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5cff552b-3e76-44f2-a723-308b282f8b3d</tstamps>
     </comp>
-    <comp ref="J1">
-      <value>Rumble</value>
-      <footprint>progcc_v3:rumble_pins</footprint>
-      <libsource lib="progcc_v3" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_main_pcb.kicad_sch"/>
-      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="ki_keywords" value="connector"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>5b7d2e55-8939-4a4d-a170-701b241d8026</tstamps>
-    </comp>
-    <comp ref="J2">
-      <value>Rumble</value>
-      <footprint>progcc_v3:rumble_pins</footprint>
-      <libsource lib="progcc_v3" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_main_pcb.kicad_sch"/>
-      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="ki_keywords" value="connector"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>0b14dd87-2e67-4f24-a7be-62f82cfcb8b1</tstamps>
-    </comp>
     <comp ref="J3">
       <value>To Button Board</value>
       <footprint>progcc_v3:molex_5051101492_14P</footprint>
@@ -446,7 +436,11 @@
       <value>SK6805-EC-15</value>
       <footprint>progcc_v3:SK6805-EC-15</footprint>
       <datasheet>${KIPRJMOD}/../progcc_v3_libs/docs/SK6805-EC-15.pdf</datasheet>
+      <fields>
+        <field name="MPN">SK6805-EC-15</field>
+      </fields>
       <libsource lib="progcc_v3" part="SK6805-EC-15" description=""/>
+      <property name="MPN" value="SK6805-EC-15"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="procon_gcc_main_pcb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -456,7 +450,11 @@
       <value>SK6805-EC-15</value>
       <footprint>progcc_v3:SK6805-EC-15</footprint>
       <datasheet>${KIPRJMOD}/../progcc_v3_libs/docs/SK6805-EC-15.pdf</datasheet>
+      <fields>
+        <field name="MPN">SK6805-EC-15</field>
+      </fields>
       <libsource lib="progcc_v3" part="SK6805-EC-15" description=""/>
+      <property name="MPN" value="SK6805-EC-15"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="procon_gcc_main_pcb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -466,7 +464,11 @@
       <value>SK6805-EC-15</value>
       <footprint>progcc_v3:SK6805-EC-15</footprint>
       <datasheet>${KIPRJMOD}/../progcc_v3_libs/docs/SK6805-EC-15.pdf</datasheet>
+      <fields>
+        <field name="MPN">SK6805-EC-15</field>
+      </fields>
       <libsource lib="progcc_v3" part="SK6805-EC-15" description=""/>
+      <property name="MPN" value="SK6805-EC-15"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="procon_gcc_main_pcb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -476,7 +478,11 @@
       <value>SK6805-EC-15</value>
       <footprint>progcc_v3:SK6805-EC-15</footprint>
       <datasheet>${KIPRJMOD}/../progcc_v3_libs/docs/SK6805-EC-15.pdf</datasheet>
+      <fields>
+        <field name="MPN">SK6805-EC-15</field>
+      </fields>
       <libsource lib="progcc_v3" part="SK6805-EC-15" description=""/>
+      <property name="MPN" value="SK6805-EC-15"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="procon_gcc_main_pcb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -486,7 +492,11 @@
       <value>SK6805-EC-15</value>
       <footprint>progcc_v3:SK6805-EC-15</footprint>
       <datasheet>${KIPRJMOD}/../progcc_v3_libs/docs/SK6805-EC-15.pdf</datasheet>
+      <fields>
+        <field name="MPN">SK6805-EC-15</field>
+      </fields>
       <libsource lib="progcc_v3" part="SK6805-EC-15" description=""/>
+      <property name="MPN" value="SK6805-EC-15"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="procon_gcc_main_pcb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -496,7 +506,11 @@
       <value>SK6805-EC-15</value>
       <footprint>progcc_v3:SK6805-EC-15</footprint>
       <datasheet>${KIPRJMOD}/../progcc_v3_libs/docs/SK6805-EC-15.pdf</datasheet>
+      <fields>
+        <field name="MPN">SK6805-EC-15</field>
+      </fields>
       <libsource lib="progcc_v3" part="SK6805-EC-15" description=""/>
+      <property name="MPN" value="SK6805-EC-15"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="procon_gcc_main_pcb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -506,7 +520,11 @@
       <value>SK6805-EC-15</value>
       <footprint>progcc_v3:SK6805-EC-15</footprint>
       <datasheet>${KIPRJMOD}/../progcc_v3_libs/docs/SK6805-EC-15.pdf</datasheet>
+      <fields>
+        <field name="MPN">SK6805-EC-15</field>
+      </fields>
       <libsource lib="progcc_v3" part="SK6805-EC-15" description=""/>
+      <property name="MPN" value="SK6805-EC-15"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="procon_gcc_main_pcb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -516,27 +534,15 @@
       <value>SK6805-EC-15</value>
       <footprint>progcc_v3:SK6805-EC-15</footprint>
       <datasheet>${KIPRJMOD}/../progcc_v3_libs/docs/SK6805-EC-15.pdf</datasheet>
+      <fields>
+        <field name="MPN">SK6805-EC-15</field>
+      </fields>
       <libsource lib="progcc_v3" part="SK6805-EC-15" description=""/>
+      <property name="MPN" value="SK6805-EC-15"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="procon_gcc_main_pcb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>767f3da3-56b3-4772-9e38-b02e035fb13e</tstamps>
-    </comp>
-    <comp ref="P1">
-      <value>Endpoint</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical</footprint>
-      <fields>
-        <field name="Group">Capacitive</field>
-      </fields>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="LCSC" value=""/>
-      <property name="Group" value="Capacitive"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_main_pcb.kicad_sch"/>
-      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="ki_keywords" value="connector"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>1ab0fe58-9fa8-4476-bcf4-d9c4d49245a0</tstamps>
     </comp>
     <comp ref="Q1">
       <value>Q_PMOS_GDS</value>
@@ -994,7 +1000,7 @@
       <tstamps>1992c4c2-d1d2-4654-8ced-43e632199557</tstamps>
     </comp>
     <comp ref="SW4">
-      <value>~</value>
+      <value>TS35CA</value>
       <footprint>progcc_v3:TS35CA</footprint>
       <datasheet>${KIPRJMOD}/../progcc_v3_libs/docs/1912111437_SHOU-HAN-TS35CA_C412366.pdf</datasheet>
       <fields>
@@ -1006,50 +1012,6 @@
       <property name="Sheetfile" value="procon_gcc_main_pcb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>232eff3b-fc9f-4445-b6a5-e148dc50e788</tstamps>
-    </comp>
-    <comp ref="T1">
-      <value>36-8730</value>
-      <footprint>progcc_v3:KS_8730</footprint>
-      <libsource lib="Connector" part="TestPoint" description="test point"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_main_pcb.kicad_sch"/>
-      <property name="ki_description" value="test point"/>
-      <property name="ki_keywords" value="test point tp"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>1b3ea6f2-720a-42ca-b28f-692113128277</tstamps>
-    </comp>
-    <comp ref="T2">
-      <value>36-8730</value>
-      <footprint>progcc_v3:KS_8730</footprint>
-      <libsource lib="Connector" part="TestPoint" description="test point"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_main_pcb.kicad_sch"/>
-      <property name="ki_description" value="test point"/>
-      <property name="ki_keywords" value="test point tp"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>34c0498e-bb85-4c65-87ea-06ef9fab92af</tstamps>
-    </comp>
-    <comp ref="T3">
-      <value>36-8730</value>
-      <footprint>progcc_v3:KS_8730</footprint>
-      <libsource lib="Connector" part="TestPoint" description="test point"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_main_pcb.kicad_sch"/>
-      <property name="ki_description" value="test point"/>
-      <property name="ki_keywords" value="test point tp"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>1d6d2800-0c81-47de-b9bc-ed4face70a7c</tstamps>
-    </comp>
-    <comp ref="T4">
-      <value>36-8730</value>
-      <footprint>progcc_v3:KS_8730</footprint>
-      <libsource lib="Connector" part="TestPoint" description="test point"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_main_pcb.kicad_sch"/>
-      <property name="ki_description" value="test point"/>
-      <property name="ki_keywords" value="test point tp"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>69c6bb14-04ab-4556-8c53-fd0db7149139</tstamps>
     </comp>
     <comp ref="TP1">
       <value>TestPoint</value>
@@ -1106,17 +1068,6 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c3b8b7b5-fe65-4047-a9a2-e3abecc718e5</tstamps>
     </comp>
-    <comp ref="TP6">
-      <value>TestPoint</value>
-      <footprint>TestPoint:TestPoint_Pad_D1.5mm</footprint>
-      <libsource lib="Connector" part="TestPoint" description="test point"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_main_pcb.kicad_sch"/>
-      <property name="ki_description" value="test point"/>
-      <property name="ki_keywords" value="test point tp"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>e60eb52f-dfe2-47c5-b0da-37309649e141</tstamps>
-    </comp>
     <comp ref="TP7">
       <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Pad_D1.5mm</footprint>
@@ -1150,17 +1101,6 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3ddf0741-8fb1-4cd1-8a23-2981d13edbd3</tstamps>
     </comp>
-    <comp ref="TP10">
-      <value>TestPoint</value>
-      <footprint>TestPoint:TestPoint_Pad_D1.5mm</footprint>
-      <libsource lib="Connector" part="TestPoint" description="test point"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_main_pcb.kicad_sch"/>
-      <property name="ki_description" value="test point"/>
-      <property name="ki_keywords" value="test point tp"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>dd613b0a-b436-4bcc-8c8a-906511c207c8</tstamps>
-    </comp>
     <comp ref="TP11">
       <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Pad_D1.5mm</footprint>
@@ -1171,17 +1111,6 @@
       <property name="ki_keywords" value="test point tp"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a43d2b9b-df3c-4527-87d8-c06eae9b8d36</tstamps>
-    </comp>
-    <comp ref="TP12">
-      <value>TestPoint</value>
-      <footprint>TestPoint:TestPoint_Pad_D1.5mm</footprint>
-      <libsource lib="Connector" part="TestPoint" description="test point"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_main_pcb.kicad_sch"/>
-      <property name="ki_description" value="test point"/>
-      <property name="ki_keywords" value="test point tp"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>59268184-8b19-4177-b381-309b24358eb5</tstamps>
     </comp>
     <comp ref="TP13">
       <value>TestPoint</value>
@@ -1322,9 +1251,11 @@
       <datasheet>https://www.diodes.com/assets/Datasheets/AP2127.pdf</datasheet>
       <fields>
         <field name="LCSC Part Number">C387689</field>
+        <field name="MPN">LP3986-33B3F</field>
       </fields>
       <libsource lib="Regulator_Linear" part="AP2127N-3.3" description="300mA low dropout linear regulator, shutdown pin, 2.5V-6V input voltage, 3.3V fixed positive output, SOT-23 package"/>
       <property name="LCSC Part Number" value="C387689"/>
+      <property name="MPN" value="LP3986-33B3F"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="procon_gcc_main_pcb.kicad_sch"/>
       <property name="ki_description" value="300mA low dropout linear regulator, shutdown pin, 2.5V-6V input voltage, 3.3V fixed positive output, SOT-23 package"/>
@@ -2085,12 +2016,8 @@
       <node ref="C2" pin="1" pintype="passive"/>
       <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="F3" pin="2" pintype="passive"/>
-      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="Q1" pin="2" pinfunction="S" pintype="passive"/>
       <node ref="R1" pin="2" pintype="passive"/>
-      <node ref="T1" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="T3" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="TP9" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U7" pin="3" pinfunction="VI" pintype="power_in"/>
     </net>
@@ -2157,13 +2084,11 @@
       <node ref="J9" pin="A6" pinfunction="D+" pintype="bidirectional"/>
       <node ref="J9" pin="B6" pinfunction="D+" pintype="bidirectional"/>
       <node ref="R29" pin="1" pintype="passive"/>
-      <node ref="TP12" pin="1" pinfunction="1" pintype="passive"/>
     </net>
     <net code="22" name="D-">
       <node ref="J9" pin="A7" pinfunction="D-" pintype="bidirectional"/>
       <node ref="J9" pin="B7" pinfunction="D-" pintype="bidirectional"/>
       <node ref="R30" pin="1" pintype="passive"/>
-      <node ref="TP10" pin="1" pinfunction="1" pintype="passive"/>
     </net>
     <net code="23" name="GND">
       <node ref="C1" pin="2" pintype="passive"/>
@@ -2282,7 +2207,6 @@
       <node ref="J9" pin="B3" pinfunction="TX2-" pintype="bidirectional"/>
       <node ref="Q5" pin="3" pinfunction="D" pintype="passive"/>
       <node ref="R12" pin="2" pintype="passive"/>
-      <node ref="TP6" pin="1" pinfunction="1" pintype="passive"/>
     </net>
     <net code="35" name="N_CLOCK_3.3">
       <node ref="Q5" pin="2" pinfunction="S" pintype="passive"/>
@@ -2434,11 +2358,7 @@
     <net code="67" name="RUMBLE-">
       <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="F1" pin="1" pintype="passive"/>
-      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
-      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="Q1" pin="3" pinfunction="D" pintype="passive"/>
-      <node ref="T2" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="T4" pin="1" pinfunction="1" pintype="passive"/>
     </net>
     <net code="68" name="RX">
       <node ref="C12" pin="2" pintype="passive"/>
@@ -2513,7 +2433,6 @@
       <node ref="U6" pin="38" pinfunction="GPIO26_ADC0" pintype="bidirectional"/>
     </net>
     <net code="82" name="TOUCH_OUT">
-      <node ref="P1" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R20" pin="2" pintype="passive"/>
       <node ref="U6" pin="39" pinfunction="GPIO27_ADC1" pintype="bidirectional"/>
     </net>

@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\Mitch\GitRepos\ProGCCv3-hhlprotos\progcc_v3_button\procon_gcc_button_board.kicad_sch</source>
-    <date>5/26/2023 8:45:00 PM</date>
+    <date>6/6/2023 9:43:11 PM</date>
     <tool>Eeschema 7.0.2</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -34,7 +34,7 @@
       <property name="ki_description" value="Fast switching diode array 3 independent"/>
       <property name="ki_keywords" value="diode"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>f6bf45b5-4e3b-41f4-be33-dbb0b1e5a720 4cdad50e-aa94-4475-a147-1b155b745aa9 0e10e61c-4e5d-4c06-a4fc-a701a94e267e</tstamps>
+      <tstamps>4cdad50e-aa94-4475-a147-1b155b745aa9 f6bf45b5-4e3b-41f4-be33-dbb0b1e5a720 0e10e61c-4e5d-4c06-a4fc-a701a94e267e</tstamps>
     </comp>
     <comp ref="D2">
       <value>BAS16VY,115</value>
@@ -70,7 +70,7 @@
       <property name="ki_description" value="Fast switching diode array 3 independent"/>
       <property name="ki_keywords" value="diode"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>3f61435f-6e6d-4808-8bc9-d7ab9917ad6a c5023cfa-e5e0-4668-b5c1-ae3280de10d9 3e64df80-8038-4681-a6ec-015b96381d8c</tstamps>
+      <tstamps>c5023cfa-e5e0-4668-b5c1-ae3280de10d9 3f61435f-6e6d-4808-8bc9-d7ab9917ad6a 3e64df80-8038-4681-a6ec-015b96381d8c</tstamps>
     </comp>
     <comp ref="D5">
       <value>BAS16VY,115</value>
